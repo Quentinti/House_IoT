@@ -1,0 +1,2 @@
+cd IoTServer
+. start.sh

@@ -1,0 +1,2 @@
+cd VirtualDevice
+. start.sh
